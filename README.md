@@ -1,5 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/2fad2888-54fa-4e01-a2a4-22cdd14639fc.svg)](https://wakatime.com/@2fad2888-54fa-4e01-a2a4-22cdd14639fc)
-
+[![wakatime](https://wakatime.com/badge/user/8cbb47cc-0676-44d1-b5f6-2f31d45be5ef.svg)](https://wakatime.com/@8cbb47cc-0676-44d1-b5f6-2f31d45be5ef)
 
 <!--
 **Automated-Entity/Automated-Entity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
